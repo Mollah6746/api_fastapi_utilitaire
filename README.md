@@ -1,4 +1,4 @@
-# 🚀 API Utilitaire de Traitement de Texte (FastAPI)
+# 🚀 API utilitaire de traitement de texte (FastAPI)
 
 Une API REST moderne et performante construite avec Python et le framework FastAPI. Ce projet démontre la création d'un service backend capable de recevoir des données JSON, de les valider et de les traiter.
 
@@ -8,14 +8,14 @@ Une API REST moderne et performante construite avec Python et le framework FastA
 * **Validation des données :** Utilisation de Pydantic pour s'assurer que les données d'entrée respectent le format attendu.
 * **Documentation automatique :** Interface Swagger UI interactive intégrée pour tester l'API facilement.
 
-## 🛠️ Stack Technique
+## 🛠️ Stack technique
 
 * Python 3.x
 * [FastAPI](https://fastapi.tiangolo.com/) (Framework Web)
 * [Uvicorn](https://www.uvicorn.org/) (Serveur ASGI)
 * Pydantic (Validation de données)
 
-## 💻 Installation et Démarrage Local
+## 💻 Installation et démarrage Local
 
 Pour faire tourner cette API sur votre machine, suivez ces étapes :
 
