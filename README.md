@@ -15,7 +15,7 @@ Une API REST moderne et performante construite avec Python et le framework FastA
 * [Uvicorn](https://www.uvicorn.org/) (Serveur ASGI)
 * Pydantic (Validation de données)
 
-## 💻 Installation et démarrage Local
+## 💻 Installation et démarrage local
 
 Pour faire tourner cette API sur votre machine, suivez ces étapes :
 
